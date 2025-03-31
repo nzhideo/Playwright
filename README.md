@@ -1,1 +1,1 @@
-This is my first playwright execising project.
+This is my first playwright exercising project.
